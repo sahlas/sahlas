@@ -91,7 +91,7 @@ I bring extensive experience in:
 ## 📫 Let's Connect
 
 I'm always interested in discussing software testing, automation frameworks, and quality engineering practices. Feel free to reach out if you'd like to collaborate or have questions about any of my projects!
-[Email](bill.sahlas@gmail.com) / [LinkedIn](https://www.linkedin.com/in/billsahlas/)
+[Email](mailto:bill.sahlas@gmail.com?subject=Connect) / [LinkedIn](https://www.linkedin.com/in/billsahlas/)
 
 ---
 *"Quality is not an act, it is a habit." - Aristotle*
