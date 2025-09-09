@@ -74,6 +74,14 @@ I bring extensive experience in:
 - **DevOps Integration**: Creating CI/CD pipelines that integrate testing into deployment workflows
 - **Team Leadership**: Mentoring teams on testing best practices and automation implementation
 
+## ✅ Certifications
+- **[Udemy Mastering Modern Test Automation With Playwright In Java](https://www.udemy.com/certificate/UC-c484c03a-a058-43fc-a5d4-f793578b95a0/)**
+- **[[PCAP-31-03] PCAP™ – Certified Associate Python Programmer](https://www.credly.com/badges/74666fff-d676-4a7b-bc12-3b713d5d588d/linked_in_profile)**
+- **[Playwright Essential Training: Abstractions, Fixtures, and Complex Scenarios](https://www.linkedin.com/learning/certificates/f6cd09f693a6fbe627f7dc27496ebb440c1ebe07a3c6832823d3bcd964e80bf9?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3Bo3yZqnuoRtyHQWcpqSCEQg%3D%3D)**
+- **[Playwright: Design Patterns](https://www.linkedin.com/learning/certificates/3df092c3223ccf046eb5a772c3bcd6f28a3f4a79e1154665dea7094574d56be3?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BzduVJdtDSjuCdvTNvWj%2BVA%3D%3D)**
+- **[Udemy: Taking Python to Production: A Professional Onboarding Guide](https://www.udemy.com/certificate/UC-508e519a-24df-4eb3-9d30-2c2f17d6a921/?utm_campaign=email&utm_medium=email&utm_source=sendgrid.com)**
+- **[ISTQB® Certified Tester Foundation Level (CTFL)]()**
+
 ## 📈 Current Focus
 
 🔭 **Currently working on**: Advanced test automation patterns and AI-assisted testing workflows  
