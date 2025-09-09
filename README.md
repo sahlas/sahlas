@@ -1,4 +1,4 @@
-# Hi, I'm Sahlas! 👋
+# Hi, I'm Bill Sahlas! 👋
 
 **Quality Assurance Engineer | Test Automation Specialist | Software Developer**
 
@@ -83,6 +83,9 @@ I bring extensive experience in:
 ## 📫 Let's Connect
 
 I'm always interested in discussing software testing, automation frameworks, and quality engineering practices. Feel free to reach out if you'd like to collaborate or have questions about any of my projects!
+[Email](bill.sahlas@gmail.com) / [LinkedIn](https://www.linkedin.com/in/billsahlas/)
 
 ---
 *"Quality is not an act, it is a habit." - Aristotle*
+
+There are some good descriptions on the web of what “quality first” means to software product development and delivery. But, for me the most important aspect of “quality first” is how a company embeds this principle into its overall org structure.  Each and every team member must understand their role and the importance of quality at each and every step of the SDLC.   Whether it's through static testing/analysis like reviewing PRDs or test plans or code PRs where finding defects early saves time and money up to and throughout the entire cycle.  From initiation to delivery, it's important that we follow all quality guidelines.  Everyone is responsible for quality at all levels.  I know how to guide myself and my teammates throughout the process applying the “quality first” principle.
