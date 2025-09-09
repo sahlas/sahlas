@@ -7,7 +7,7 @@ I'm a passionate software testing professional with expertise in modern test aut
 ## 🛠️ Technical Skills
 
 ### Test Automation & QA
-- **Frameworks**: Playwright (Java & Python), Cucumber BDD, JUnit, TestNG
+- **Frameworks**: Playwright (Java & Python), Cucumber BDD, JUnit, TestNG, XCTest/XCUITest (Swift & Objective-C)
 - **Testing Types**: UI Testing, API Testing, Integration Testing, End-to-End Testing
 - **Methodologies**: Behavior-Driven Development (BDD), Test-Driven Development (TDD)
 - **Tools**: Allure Reporting, Maven, Postman
