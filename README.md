@@ -81,6 +81,8 @@ I bring extensive experience in:
 - **[Playwright: Design Patterns](https://www.linkedin.com/learning/certificates/3df092c3223ccf046eb5a772c3bcd6f28a3f4a79e1154665dea7094574d56be3?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BzduVJdtDSjuCdvTNvWj%2BVA%3D%3D)**
 - **[Udemy: Taking Python to Production: A Professional Onboarding Guide](https://www.udemy.com/certificate/UC-508e519a-24df-4eb3-9d30-2c2f17d6a921/?utm_campaign=email&utm_medium=email&utm_source=sendgrid.com)**
 - **[ISTQB® Certified Tester Foundation Level (CTFL)](https://www.credly.com/badges/39a9c4a0-ffae-47d1-8983-cb1ffc9e5c54/public_url)**
+- **[ISTQB® Certified Tester Advanced Level - Test Analyst (CTAL-TA)](https://www.credly.com/badges/e49939d8-1f26-461c-b65a-39baffca0558/public_url)**
+  
 
 ## 📈 Current Focus
 
